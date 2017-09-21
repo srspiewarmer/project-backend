@@ -27,6 +27,7 @@
         <module>project-webapp</module>
         <module>project-payment</module>
         <module>project-product</module>
+        <module>project-admin</module>
     </modules>
 
 
